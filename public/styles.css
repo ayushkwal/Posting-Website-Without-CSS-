@@ -1,0 +1,12 @@
+.back {
+    background-color: red;
+    color: yellow;
+}
+
+a,
+#delete,
+.abc {
+    border: 1px solid black;
+    color: white;
+    background-color: red;
+}
